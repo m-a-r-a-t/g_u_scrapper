@@ -2,10 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+chromedriver.exe
 # C extensions
 *.so
-
+.idea
+data
+user.db
 # Distribution / packaging
 .Python
 build/
